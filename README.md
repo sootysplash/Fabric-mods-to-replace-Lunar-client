@@ -144,4 +144,4 @@ Pack Display - none found
 
 ⠀
 
-Let me know in a comment if you find a mod for the 8 that I could not find.
+Let me know in a PR if you find a mod for the eight that I could not find.
