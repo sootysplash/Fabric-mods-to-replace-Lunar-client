@@ -132,6 +132,8 @@ Stopwatch - none found
 
 Hypixel Mods - none found
 
+Hypixel Quickplay - none found
+
 Tab Editor - none found
 
 Shiny Pots - none found
