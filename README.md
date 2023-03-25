@@ -90,9 +90,9 @@ Item Physics - Item Physics Lite https://modrinth.com/mod/itemphysic-lite
 
 Tnt Time - Time to Live https://modrinth.com/mod/timetolive
 
-Day Counter - Just use the f3 debug screen lmao!
+Day Counter - The f3 debug menu displays this.
 
-Memory Usage - Just use the f3 debug screen lmao!
+Memory Usage - Minihud https://www.curseforge.com/minecraft/mc-mods/minihud
 
 3D Skin - Skin Layers 3D https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d
 
