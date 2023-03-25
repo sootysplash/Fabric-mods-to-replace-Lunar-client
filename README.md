@@ -124,6 +124,8 @@ Weather Changer - Weather Changer https://modrinth.com/mod/weather-changer
 
 WAILA - WTHIT https://modrinth.com/mod/wthit
 
+WorldEdit CUI - WorldEdit CUI https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric
+
 ⠀
 
 PVP Info - none found
