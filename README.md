@@ -1,6 +1,6 @@
 # List of Fabric mods to replace Lunar Client mods.md
 
-List of fabric mods to replace lunar client mods
+List of fabric mods to replace lunar client mods (1.19.2 specifically but other mod versions may be present)
 
 ⠀
 
