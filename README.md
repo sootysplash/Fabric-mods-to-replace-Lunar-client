@@ -126,6 +126,8 @@ WAILA - WTHIT https://modrinth.com/mod/wthit
 
 WorldEdit CUI - WorldEdit CUI https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric
 
+Hurt cam: Betterhurtcam https://modrinth.com/mod/betterhurtcam
+
 ⠀
 
 PVP Info - none found
